@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>HTML basics</title>
+        <title>prices for services</title>
     </head>
     <body>
     </body>

@@ -3,9 +3,12 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>pet palls prices</title>
+        <title>HTML basics</title>
     </head>
-    <body>10$ dollars per walk 
+    <body>
+        <h1>pet pals prices <h1>
+            
     </body>
 </html>
+
 
